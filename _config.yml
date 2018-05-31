@@ -1,13 +1,13 @@
 # Base blog settings
-baseurl                      : "/nanasackey/" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "/dactl/" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "http://nanasackey.github.io/nanasackey/" # the base hostname & protocol for your site
+url                          : "" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
   title                      : dactl
   description                  : >
-                               My personal blog
+                               this should contain a proper description
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
@@ -26,11 +26,11 @@ blog:
 
 # Author info
 author:
-  fullname                  : Nana Sackey
+  fullname                  : Your Name
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : nana@thesimplesavvy.com # change to your e-mail address
-  twitter                   : nanaksackey
-  github                    : nanasackey
+  mail                      : your@email.com # change to your e-mail address
+  twitter                   : twitter-user-name
+  github                    : github-user-name
   youtube                   : youtube-user-name
   stackoverflow             : stackoverflow-user-name
   disqus                    : dactl # your disqus site name
